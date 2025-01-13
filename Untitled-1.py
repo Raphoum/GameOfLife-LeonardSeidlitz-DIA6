@@ -80,7 +80,7 @@ def print_grid(rows, cols, grid, generation):
 
     clear_console()
 
-    # A single output string is used to help reduce the flickering caused by printing multiple lines
+    # A single output string is used to help reduce the flickering caused by printing multiple lines e
     output_str = ""
 
     # Compile the output string together and then print it to console
